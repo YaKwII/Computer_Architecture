@@ -42,5 +42,5 @@ Task3/
 ```
 
 ## Author
-Your Name — Georgia State University CSC 4210/6210  
+Michael Powers — Georgia State University CSC 4210/6210  
 Spring Semester 2026
